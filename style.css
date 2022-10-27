@@ -58,3 +58,42 @@ h1 {
     padding: 4px;
 
 }
+.two{
+    background: url(img/cptamerica.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 50%;
+    width: 380px;
+}
+.three{
+    background: url(img/ironman.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 50%;
+    width: 380px;
+}
+.a{
+    width: 380px;
+    background-color: black;
+    min-height: 10%;
+}
+.b{
+    width: 380px;
+    background-color: black;
+    min-height: 10%;
+}
+.four{
+    background: url(img/cptmarvel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 50%;
+    width: 340px;
+}
+.c{
+    width: 340px;
+    background-color: black;
+    min-height: 10%;
+}
